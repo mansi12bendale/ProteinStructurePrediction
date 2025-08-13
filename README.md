@@ -64,5 +64,7 @@ This project is open-source and available under the MIT License.
 Once saved, run:  
 
 git add README.md
+
 git commit -m "Add README"
+
 git push
