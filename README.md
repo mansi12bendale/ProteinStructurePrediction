@@ -30,30 +30,22 @@ ProteinStruturePrediction/
 ## 🚀 Installation & Usage
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/mansi12bendale/ProteinStructurePrediction.git
 cd ProteinStructurePrediction
 2️⃣ Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 (If requirements.txt is missing, manually install:)
 
-bash
-Copy
-Edit
+
 pip install flask scikit-learn pandas numpy
 3️⃣ Run the application
-bash
-Copy
-Edit
+
 python app.py
 Then open your browser and go to:
 
-cpp
-Copy
-Edit
+
 http://127.0.0.1:5000
 🧠 Model Details
 Algorithm: Support Vector Machine (SVM)
@@ -65,12 +57,9 @@ Output: Predicted secondary structure (Helix, Sheet, Coil)
 📜 License
 This project is open-source and available under the MIT License.
 
-sql
-Copy
-Edit
 
 Once saved, run:  
-```bash
+
 git add README.md
 git commit -m "Add README"
 git push
