@@ -22,9 +22,10 @@ ProteinStruturePrediction/
 │ └── index.html # Front-end HTML template
 └── ProteinStruturePrediction.code-workspace
 
-bash
-Copy
-Edit
+
+
+</details>
+
 
 ## 🚀 Installation & Usage
 
