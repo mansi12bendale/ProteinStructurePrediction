@@ -9,6 +9,9 @@ This project predicts the **secondary structure** of proteins (Helix, Sheet, or 
 - Pre-trained model (`svm_model.pkl`) for quick predictions.
 
 ## 📂 Project Structure
+<details>
+<summary>Click to view</summary>
+
 ProteinStruturePrediction/
 │
 ├── app.py # Flask app for web interface
