@@ -33,6 +33,7 @@ ProteinStruturePrediction/
 
 git clone https://github.com/mansi12bendale/ProteinStructurePrediction.git
 cd ProteinStructurePrediction
+
 2️⃣ Install dependencies
 
 pip install -r requirements.txt
@@ -40,6 +41,7 @@ pip install -r requirements.txt
 
 
 pip install flask scikit-learn pandas numpy
+
 3️⃣ Run the application
 
 python app.py
@@ -47,6 +49,7 @@ Then open your browser and go to:
 
 
 http://127.0.0.1:5000
+
 🧠 Model Details
 Algorithm: Support Vector Machine (SVM)
 
